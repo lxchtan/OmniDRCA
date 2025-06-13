@@ -25,7 +25,7 @@ Recent studies on end-to-end speech generation with large language models (LLMs)
                   Qian Chen and
                   Wen Wang and
                   Chong Deng and
-                  Qinglin Zhang,
+                  Qinglin Zhang and
                   Luyao Cheng and
                   Hai Yu and
                   Xin Zhang and
